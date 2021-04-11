@@ -1,0 +1,16 @@
+C:\c#\c#9&.net5\Code\Chapter04\Instrumenting\bin\Debug\net5.0\Instrumenting.exe
+C:\c#\c#9&.net5\Code\Chapter04\Instrumenting\bin\Debug\net5.0\Instrumenting.deps.json
+C:\c#\c#9&.net5\Code\Chapter04\Instrumenting\bin\Debug\net5.0\Instrumenting.runtimeconfig.json
+C:\c#\c#9&.net5\Code\Chapter04\Instrumenting\bin\Debug\net5.0\Instrumenting.runtimeconfig.dev.json
+C:\c#\c#9&.net5\Code\Chapter04\Instrumenting\bin\Debug\net5.0\Instrumenting.dll
+C:\c#\c#9&.net5\Code\Chapter04\Instrumenting\bin\Debug\net5.0\ref\Instrumenting.dll
+C:\c#\c#9&.net5\Code\Chapter04\Instrumenting\bin\Debug\net5.0\Instrumenting.pdb
+C:\c#\c#9&.net5\Code\Chapter04\Instrumenting\obj\Debug\net5.0\Instrumenting.csprojAssemblyReference.cache
+C:\c#\c#9&.net5\Code\Chapter04\Instrumenting\obj\Debug\net5.0\Instrumenting.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\c#9&.net5\Code\Chapter04\Instrumenting\obj\Debug\net5.0\Instrumenting.AssemblyInfoInputs.cache
+C:\c#\c#9&.net5\Code\Chapter04\Instrumenting\obj\Debug\net5.0\Instrumenting.AssemblyInfo.cs
+C:\c#\c#9&.net5\Code\Chapter04\Instrumenting\obj\Debug\net5.0\Instrumenting.csproj.CoreCompileInputs.cache
+C:\c#\c#9&.net5\Code\Chapter04\Instrumenting\obj\Debug\net5.0\Instrumenting.dll
+C:\c#\c#9&.net5\Code\Chapter04\Instrumenting\obj\Debug\net5.0\ref\Instrumenting.dll
+C:\c#\c#9&.net5\Code\Chapter04\Instrumenting\obj\Debug\net5.0\Instrumenting.pdb
+C:\c#\c#9&.net5\Code\Chapter04\Instrumenting\obj\Debug\net5.0\Instrumenting.genruntimeconfig.cache
